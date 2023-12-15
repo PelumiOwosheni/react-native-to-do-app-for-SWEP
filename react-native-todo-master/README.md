@@ -1,0 +1,1 @@
+this is a SWEP project by my university and this is done with react native. It's an app fpr Todo as it allows us to be able to plan oue schedule and then write the dependencies, meaning those npm install
